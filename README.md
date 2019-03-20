@@ -7,47 +7,44 @@ Sketch at least **3 (three)** different UIs for the functions you are targeting.
 You need **not** sketch the whole interface. It is not necessary for the sketches to have every function or every function in detail, but there should be enough to show off your general idea. **Be creative!** Draw your idea and label a few of the widgets so we can tell your intent. The goal is to have at least 3 good UIs in *interesting* ways. Sketches should be done on paper with pens and/or pencils (do not use a computer).
 
 ### 1. Scan/Photo of Sketches
-```
-Be sure to label the different versions so you can differentiate them in your discussion. 
-If you choose to take a picture of your sketches, please make sure the texts are readable.
-```
 
-![Scan/Photo of Sketches](https://picsum.photos/400/300/?random)
-
+Original
+![Scan/Photo of Sketches](https://github.com/hci-a-if-its-2019/assignment-2-trus25/blob/master/Sketch/Original.jpg)
+Sketch1
+![Scan/Photo of Sketches](https://github.com/hci-a-if-its-2019/assignment-2-trus25/blob/master/Sketch/Sketch1.jpg)
+Sketch2
+![Scan/Photo of Sketches](https://github.com/hci-a-if-its-2019/assignment-2-trus25/blob/master/Sketch/Sketch2.jpg)
+Sketch3
+![Scan/Photo of Sketches](https://github.com/hci-a-if-its-2019/assignment-2-trus25/blob/master/Sketch/Sketch3.jpg)
 ### 2. Version Differences
-```
-Please write a paragraph talking about the differences between the versions
-```
+Original
+In the original design, user is confused about what to do with the page. Because, there are too many menus and navigation. The home page has thumbnails which are too close to each other as their menu. User will also have to scroll down just to find navigation box and course list.
 
+Sketch 1
+
+In sketch 1, the user will easily find the navigation box and course list.
+
+Sketch 2
+
+In sketch 2, the user will also find navigation box and couse list minus the thumbnail menu. And the course list is placed at where the thumbnail menu was placed so that user can interact with it easily. The thumbnail menu is deleted cause there is navigation box and top menu that is easier to access. The place where the course list is placed at sketch 1 is replaced with message box.
+
+Sketch 3
+
+In sketch 3, it's the same as sketch 2 but the login form is moved to the top right corner, because the previous form has taken up too much space. The previous login form space is replaced with message box, and message box replaced with private files.
 ### 3. Selected Sketch
-```
-Please write a paragraph telling us about which design you picked for Parts B and C 
-and why you selected it.
-```
-
+I choose sketch 3 because it's lake the upgraded version of sketch 2 which is the upgraded version of sketch 1. The navigation, course list and other things are easily seen now without putting too much effort.
 ### 4. Design Rationale
-```
-Please write a paragraph expressing what you have learned from the contextual inquiry, 
-and how it is reflected in your design.
-```
+I have learnt that users dont always notice the right button right away even if it's on the most obvious place. And most user tend to want to put least effort in learning how to use certain application/web application
 
 ## Part B: Assumptions
 ### 1. Hardware
-```
-Please write what are the assumptions for the hardware on which your new design will be implemented, 
-such as: screen size, screen resolution, on touch screen, via physical buttons, 
-using accelerometer/gyroscope, using mouse, keyboard, etc. 
-Please be specific with the required hardware and any other assumptions, 
-like whether the screen is color or black and white, etch.
-```
-### 2. Users
-```
-Please write down the assumptions about your users. 
-What level of experience do you expect? 
-Who familiar with computers/gadget will they be? 
-What ages? 
-Are there any other factors about the users that will influence your design?
-```
+1. A computer or laptop
+2. Mouse
+3. Keyboard
 
+### 2. Users
+1. Novice level users are expected
+2. The users are at least familiar with surfing internet
+3. Users are expected to be 18 to 21 years old
 ## Part C: Prototypes
 We will work on this part together during the class on **March 22nd, 2019**, 10:00 AM - 12.30 PM. Therefore, prior to the class please complete all the above parts (A & B) beforehand accordingly.
