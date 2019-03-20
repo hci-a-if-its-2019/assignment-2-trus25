@@ -8,13 +8,13 @@ You need **not** sketch the whole interface. It is not necessary for the sketche
 
 ### 1. Scan/Photo of Sketches
 
-Original
+#### Original
 ![Scan/Photo of Sketches](https://github.com/hci-a-if-its-2019/assignment-2-trus25/blob/master/Sketch/Original.jpg)
-Sketch1
+#### Sketch1
 ![Scan/Photo of Sketches](https://github.com/hci-a-if-its-2019/assignment-2-trus25/blob/master/Sketch/Sketch1.jpg)
-Sketch2
+#### Sketch2
 ![Scan/Photo of Sketches](https://github.com/hci-a-if-its-2019/assignment-2-trus25/blob/master/Sketch/Sketch2.jpg)
-Sketch3
+#### Sketch3
 ![Scan/Photo of Sketches](https://github.com/hci-a-if-its-2019/assignment-2-trus25/blob/master/Sketch/Sketch3.jpg)
 ### 2. Version Differences
 Original
