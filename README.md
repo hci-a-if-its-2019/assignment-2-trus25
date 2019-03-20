@@ -10,11 +10,11 @@ You need **not** sketch the whole interface. It is not necessary for the sketche
 
 #### Original
 ![Scan/Photo of Sketches](https://github.com/hci-a-if-its-2019/assignment-2-trus25/blob/master/Sketch/Original.jpg)
-#### Sketch1
+#### Sketch 1
 ![Scan/Photo of Sketches](https://github.com/hci-a-if-its-2019/assignment-2-trus25/blob/master/Sketch/Sketch1.jpg)
-#### Sketch2
+#### Sketch 2
 ![Scan/Photo of Sketches](https://github.com/hci-a-if-its-2019/assignment-2-trus25/blob/master/Sketch/Sketch2.jpg)
-#### Sketch3
+#### Sketch 3 
 ![Scan/Photo of Sketches](https://github.com/hci-a-if-its-2019/assignment-2-trus25/blob/master/Sketch/Sketch3.jpg)
 ### 2. Version Differences
 Original
