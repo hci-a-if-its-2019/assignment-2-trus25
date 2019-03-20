@@ -18,6 +18,7 @@ You need **not** sketch the whole interface. It is not necessary for the sketche
 ![Scan/Photo of Sketches](https://github.com/hci-a-if-its-2019/assignment-2-trus25/blob/master/Sketch/Sketch3.jpg)
 ### 2. Version Differences
 Original
+
 In the original design, user is confused about what to do with the page. Because, there are too many menus and navigation. The home page has thumbnails which are too close to each other as their menu. User will also have to scroll down just to find navigation box and course list.
 
 Sketch 1
