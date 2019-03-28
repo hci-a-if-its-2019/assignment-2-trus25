@@ -50,8 +50,8 @@ I have learnt that users dont always notice the right button right away even if 
 ## Part C: Prototypes
 We will work on this part together during the class on **March 22nd, 2019**, 10:00 AM - 12.30 PM. Therefore, prior to the class please complete all the above parts (A & B) beforehand accordingly.
 
-  1. Freehand<b />
+  1. Freehand<br />
      https://projects.invisionapp.com/freehand/document/jkxigohbo
      ![alt](https://github.com/hci-a-if-its-2019/assignment-2-trus25/blob/master/Sketch/Capture.JPG)
-  2. Prototype<b />
+  2. Prototype<br />
      https://invis.io/YAR8W9PPNQ2
